@@ -32,15 +32,15 @@ man3::details();
 
 
 
-class man4 {
-    public static function details () {
-        echo "This is the man number 4 <br>";
-    }
-    public function __construct() {
-        self::details();
-    }
-}
-new man_sub_4();
+// class man4 {
+//     public static function details () {
+//         echo "This is the man number 4 <br>";
+//     }
+//     public function __construct() {
+//         self::details();
+//     }
+// }
+// new man_sub_4();
 
 
 
